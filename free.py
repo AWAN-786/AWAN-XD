@@ -1,2 +1,2 @@
-import awan1
-awan1.menu()
+import awan1.so
+awan1.so.menu()
